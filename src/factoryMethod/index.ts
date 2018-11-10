@@ -3,7 +3,7 @@ import config from './config'
 export default class Application {
   private dialog: Dialog
 
-  public main = () => {
+  public run = () => {
     this.initialize()
     this.dialog.renderWindow()
   }
