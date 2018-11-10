@@ -1,0 +1,7 @@
+{
+  "extends": ["@solid-soda/tslint-config"],
+  "rules": {
+    "no-console": false,
+    "max-classes-per-file": false
+  }
+}
