@@ -5,6 +5,7 @@
   "author": "uncleseneca <uncleseneca@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^10.12.9",
     "ts-node": "^7.0.1",
     "typescript": "^3.1.6"
   },
