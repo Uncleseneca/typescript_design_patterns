@@ -21,4 +21,4 @@
 
 ### Behavioral ###
 
-* [Chain of Command](./src/chainOfCommand)
+* [Chain of Command](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/chainOfCommand)
