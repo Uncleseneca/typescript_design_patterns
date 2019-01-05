@@ -1,4 +1,3 @@
-import { flow, head } from 'lodash'
 
 interface ComponentWithContextualHelp {
   showHelp: () => string
