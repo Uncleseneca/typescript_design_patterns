@@ -21,3 +21,5 @@
 ### Behavioral ###
 
 * [Chain of Command](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/chainOfCommand)
+* [Command](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/command)
+* [Iterator](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/iterator)
