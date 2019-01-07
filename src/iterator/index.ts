@@ -8,10 +8,10 @@ interface Collection {
 }
 
 class ConcreteIterator implements IteratorIntarface {
-  private collection: number[] = []
+  private collection: any[] = []
   private position = 0
 
-  constructor(collection: number[]) {
+  constructor(collection: any[]) {
     this.collection = collection
   }
 
@@ -27,8 +27,8 @@ class ConcreteIterator implements IteratorIntarface {
 }
 
 export class Numbers implements Collection {
-  private collection: number[] = []
-  constructor(collection: number[]) {
+  private collection: any[] = []
+  constructor(collection: any[]) {
     this.collection = collection
   }
 
