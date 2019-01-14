@@ -25,3 +25,4 @@
 * [Iterator](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/iterator)
 * [Controller](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/controller)
 * [Memento](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/memento)
+* [Observer](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/observer)
