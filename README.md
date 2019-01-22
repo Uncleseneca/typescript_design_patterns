@@ -26,3 +26,4 @@
 * [Controller](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/controller)
 * [Memento](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/memento)
 * [Observer](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/observer)
+* [State](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/state)
