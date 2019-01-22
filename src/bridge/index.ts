@@ -82,7 +82,3 @@ class Tv implements Device {
   public getChannel() { return this.channel }
   public setChannel(channel: number) { this.channel = channel }
 }
-
-/* class Radio implemends Device {
-  ...
-} */
