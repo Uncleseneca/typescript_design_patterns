@@ -28,3 +28,4 @@
 * [Observer](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/observer)
 * [State](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/state)
 * [Strategy](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/strategy)
+* [Visitor](https://github.com/Uncleseneca/typescript_design_patterns/tree/master/src/visitor)
